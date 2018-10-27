@@ -1,0 +1,7 @@
+# coding=gbk
+'''
+Created on 2018Äê10ÔÂ27ÈÕ
+
+@author: ÈîÈî
+'''
+print("hello world!");
