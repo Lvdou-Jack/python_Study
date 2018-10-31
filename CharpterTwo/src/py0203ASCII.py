@@ -1,0 +1,6 @@
+#coding=gbk
+#´óĞ´×ÖÄ¸×ª»»ÎªĞ¡Ğ´×ÖÄ¸
+c = input("´óĞ´×ÖÄ¸:")
+y = (c if (c>='a' and c<='z') else chr(ord(c)+32))
+#Ìõ¼şÔËËã·ûif...else...  £º  x if y else z
+print("×ÖÄ¸:",c,"ASII:",ord(c),"×ª»»Îª:",y,"ASII:",ord(y))
